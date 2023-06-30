@@ -1,8 +1,0 @@
-C:\Users\usai2\source\repos\Serioskursach\Serioskursach\x64\Debug\Serioskursach.vcxproj.AssemblyReference.cache
-C:\Users\usai2\source\repos\Serioskursach\Serioskursach\x64\Debug\Serioskursach.vcxproj.SuggestedBindingRedirects.cache
-C:\Users\usai2\source\repos\Serioskursach\Serioskursach\x64\Debug\Serioskursach.MyForm.resources
-C:\Users\usai2\source\repos\Serioskursach\Serioskursach\x64\Debug\Serioskursach.MyForm2.resources
-C:\Users\usai2\source\repos\Serioskursach\Serioskursach\x64\Debug\Serioskursach.vcxproj.GenerateResource.cache
-C:\Users\usai2\source\repos\Serioskursach\Serioskursach\x64\Debug\Serioskursach.MyForm1.resources
-C:\Users\usai2\source\repos\Serioskursach\Serioskursach\x64\Debug\Serioskursach.MyForm3.resources
-C:\Users\usai2\source\repos\Serioskursach\Serioskursach\x64\Debug\Serioskursach.MyForm4.resources
