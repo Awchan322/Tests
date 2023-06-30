@@ -12,7 +12,7 @@ namespace Serioskursach {
 	using namespace System::Drawing;
 
 	/// <summary>
-	/// Сводка для MyForm
+	/// Г‘ГўГ®Г¤ГЄГ  Г¤Г«Гї MyForm
 	/// </summary>
 	public ref class MyForm : public System::Windows::Forms::Form
 	{
@@ -21,13 +21,13 @@ namespace Serioskursach {
 		{
 			InitializeComponent();
 			//
-			//TODO: добавьте код конструктора
+			//TODO: Г¤Г®ГЎГ ГўГјГІГҐ ГЄГ®Г¤ ГЄГ®Г­Г±ГІГ°ГіГЄГІГ®Г°Г 
 			//
 		}
 
 	protected:
 		/// <summary>
-		/// Освободить все используемые ресурсы.
+		/// ГЋГ±ГўГ®ГЎГ®Г¤ГЁГІГј ГўГ±ГҐ ГЁГ±ГЇГ®Г«ГјГ§ГіГҐГ¬Г»ГҐ Г°ГҐГ±ГіГ°Г±Г».
 		/// </summary>
 		~MyForm()
 		{
@@ -49,14 +49,14 @@ namespace Serioskursach {
 
 	private:
 		/// <summary>
-		/// Обязательная переменная конструктора.
+		/// ГЋГЎГїГ§Г ГІГҐГ«ГјГ­Г Гї ГЇГҐГ°ГҐГ¬ГҐГ­Г­Г Гї ГЄГ®Г­Г±ГІГ°ГіГЄГІГ®Г°Г .
 		/// </summary>
 		System::ComponentModel::Container ^components;
 
 #pragma region Windows Form Designer generated code
 		/// <summary>
-		/// Требуемый метод для поддержки конструктора — не изменяйте 
-		/// содержимое этого метода с помощью редактора кода.
+		/// Г’Г°ГҐГЎГіГҐГ¬Г»Г© Г¬ГҐГІГ®Г¤ Г¤Г«Гї ГЇГ®Г¤Г¤ГҐГ°Г¦ГЄГЁ ГЄГ®Г­Г±ГІГ°ГіГЄГІГ®Г°Г  вЂ” Г­ГҐ ГЁГ§Г¬ГҐГ­ГїГ©ГІГҐ 
+		/// Г±Г®Г¤ГҐГ°Г¦ГЁГ¬Г®ГҐ ГЅГІГ®ГЈГ® Г¬ГҐГІГ®Г¤Г  Г± ГЇГ®Г¬Г®Г№ГјГѕ Г°ГҐГ¤Г ГЄГІГ®Г°Г  ГЄГ®Г¤Г .
 		/// </summary>
 		void InitializeComponent(void)
 		{
@@ -71,7 +71,7 @@ namespace Serioskursach {
 			this->button1_menu->Name = L"button1_menu";
 			this->button1_menu->Size = System::Drawing::Size(139, 67);
 			this->button1_menu->TabIndex = 0;
-			this->button1_menu->Text = L"Начать";
+			this->button1_menu->Text = L"ГЌГ Г·Г ГІГј";
 			this->button1_menu->UseVisualStyleBackColor = true;
 			this->button1_menu->Click += gcnew System::EventHandler(this, &MyForm::button1_Click);
 			// 
@@ -81,7 +81,7 @@ namespace Serioskursach {
 			this->vaiant1->Name = L"vaiant1";
 			this->vaiant1->Size = System::Drawing::Size(191, 45);
 			this->vaiant1->TabIndex = 2;
-			this->vaiant1->Text = L"Первая сложность";
+			this->vaiant1->Text = L"Hello bezdar";
 			this->vaiant1->UseVisualStyleBackColor = true;
 			// 
 			// close_button
@@ -107,7 +107,7 @@ namespace Serioskursach {
 			this->Controls->Add(this->button1_menu);
 			this->Name = L"MyForm";
 			this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;
-			this->Text = L"Меню";
+			this->Text = L"ГЊГҐГ­Гѕ";
 			this->ResumeLayout(false);
 
 		}
